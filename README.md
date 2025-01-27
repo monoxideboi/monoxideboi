@@ -4,6 +4,8 @@ Don't use this so often but I probably should
 
 I make things
 
+Open for projects, not for hire
+
 <!--
 **monoxideboi/monoxideboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
